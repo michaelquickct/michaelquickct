@@ -2,6 +2,6 @@
 - I’m interested in infrastructure automation, network automation, and open source philosophies.
 - I have a history in government, education, and technology.  
 - 📫 How to reach me ...
-michaelquickct@gmail.com
-send a pigeon
+michaelquickct@gmail.com <br>
+or send a pigeon
 
